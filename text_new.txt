@@ -1,0 +1,12 @@
+new text for git
+
+
+add a lot of text
+
+some text 1
+
+some text 2
+
+may be some more text...
+
+ok.
